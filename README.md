@@ -1,2 +1,1 @@
-# Auto-GPT-CN
-将Auto-GPT交互改成了中文
+将Auto-GPT改成了中文交互
